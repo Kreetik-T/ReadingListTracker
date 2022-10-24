@@ -1,0 +1,29 @@
+{
+    "0": {
+        "Pages": 540,
+        "Progress": 200,
+        "Excited": 400,
+        "Book Name": "Superforecasting",
+        "Notes": {
+            "0": "data on page 80",
+            "1": "Baseline argument explained on page 140"
+        },
+        "Location": "main folder"
+    },
+    "1": {
+        "Pages": 200,
+        "Progress": 177,
+        "Excited": 200,
+        "Book Name": "Kafka on the shore",
+        "Notes": {},
+        "Location": "shelf"
+    },
+    "2": {
+        "Pages": 435,
+        "Progress": 123,
+        "Excited": 229,
+        "Book Name": "The Time Machine - HG Wells",
+        "Notes": {},
+        "Location": "pdf folder"
+    }
+}
