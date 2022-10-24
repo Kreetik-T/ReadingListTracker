@@ -1,4 +1,4 @@
-# My Personal Project: 
+# CPSC 210 Project: 
 ## **Book List App**
 
 > I have over 30 pdfs of various books stored on my laptop
